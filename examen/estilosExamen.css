@@ -1,0 +1,130 @@
+body {
+    background-color: #ffffff;   
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+nav ul {
+    display: inline-block;
+}
+
+nav ul li{
+    display: inline-block;
+     border-bottom: solid silver 1px;
+     border-top: solid silver 1px;
+     text-align: center;  
+     margin: 0 40px 0 0;
+ }
+
+
+
+ .book {
+     background-color: orange;
+     border: none;
+     border-radius: 3px;
+     color: #ffffff;
+     height: 25px;
+ }
+
+ .home {
+    color: black;
+    border-bottom: solid orange 1px;
+    margin: 0 40px 0 0;
+}
+.barra {
+    color: silver;
+    border-bottom: 10px;
+}
+
+
+.libro {
+    width: 90%;
+}
+
+.texto {
+    float: left;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.genuine {
+    font-size: 34px;
+    padding-left: 84px;
+}
+
+.t-art1 {
+    text-align: center;
+    font-size: 18px;
+    width: 250px;
+    margin-left: 110px;
+}
+
+.t-art2 {
+    text-align: center;
+    font-size: 18px;
+    margin-left: 15px;
+    font-weight: 700;
+}
+
+.t-art3 {
+    text-align: center;
+    font-size: 14px;
+    width: 450px;
+    color: gray;
+}
+
+.t-art4 {
+    text-align: center;
+}
+
+.t-art5 {
+    text-align: center;
+    color: cyan;
+}
+
+.t-art6 {
+    vertical-align: bottom;
+    text-align: center;
+    font-size: 20px;
+}
+
+.t-art7 {
+    text-align: center;
+    font-size: 20px;
+
+}
+.imagen {
+    float: right;
+    width: 50%;
+}
+
+footer {
+    margin-top: 600px;
+    margin-bottom: 70px;
+}
+
+.AmazonB {
+    margin-left: 300px;
+    height: 40px;
+    border-color: orange;
+    background-color: #ffffff;
+}
+
+.img1 {
+    width: 120px;
+    margin-left: 50px;
+}
+
+.img2 {
+    width: 120px;
+    margin-left: 50px;
+}
+.img3 {
+    width: 120px;
+    margin-left: 50px;
+}
